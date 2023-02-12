@@ -1,0 +1,3 @@
+export const CONTACT={
+    SET_GROUP_DATA:"SET_GROUP_DATA"
+}
